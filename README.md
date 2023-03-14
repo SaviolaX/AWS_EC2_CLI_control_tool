@@ -117,7 +117,7 @@ Errors could be retreived:
 
 - Error: No such command - if a command typed incorrect 
     
-        ==> python .\cli_app.py list-instance
+        ==> python .\cli_app.py wrong-command
 
         Usage: cli_app.py [OPTIONS] COMMAND [ARGS]...
         Try 'cli_app.py --help' for help.
